@@ -1,5 +1,3 @@
-# src/config.py
-
 # Paths
 DATA_PATH = "data/raw/Mall_Customers.csv"
 RESULTS_METRICS_PATH = "results/comparison_metrics.csv"

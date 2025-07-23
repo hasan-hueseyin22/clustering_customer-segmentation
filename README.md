@@ -64,7 +64,7 @@ Das Skript führt die folgenden Aktionen aus:
 
 ## 📂 Repository-Struktur
 ```
-customer-segmentation-clustering/
+clustering_customer-segmentation/
 ├── data/
 ├── results/
 ├── src/

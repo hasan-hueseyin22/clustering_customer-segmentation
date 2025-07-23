@@ -25,7 +25,7 @@ Der Fokus liegt auf dem **Vergleich verschiedener Clustering-Verfahren**, um der
 1.  **Repository klonen:**
     ```bash
     git clone [https://github.com/hasan-hueseyin22/clustering_customer-segmentation.git](https://github.com/hasan-hueseyin22/clustering_customer-segmentation.git)
-    cd customer-segmentation-clustering
+    cd clustering_customer-segmentation
     ```
 
 2.  **Kaggle API einrichten und Daten herunterladen:**
